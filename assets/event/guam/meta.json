@@ -1,0 +1,11 @@
+{
+  "id": "guam",
+  "title": "Guam",
+  "country": "USA Territory",
+  "date": "2023.05.31",
+  "description": "태풍으로 인해 공항이 폐쇄되어 취소된 가족 여행",
+  "images": [
+    "cancel.png",
+    "cancel2.png"
+  ]
+}
