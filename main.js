@@ -19,7 +19,7 @@ const EVENTS = [
   { id: 'gyeongju', cover: 'assets/Gyeongju.jpg', label: 'Gyeongju' },
   { id: 'Salzkammergut', cover: 'assets/Salzkammergut.mp4', label: 'Salzkammergut' },
   { id: 'hawaii', cover: 'assets/Hwaii.jpg', label: 'Hawaii' },
-  { id: 'jeju Island', cover: 'assets/jeju.MP4', label: 'Jeju Island' },
+  { id: 'jeju Island', cover: 'assets/jeju.mp4', label: 'Jeju Island' },
   { id: 'melbourne', cover: 'assets/Melbourne.png', label: 'Melbourne' },
   { id: 'queenstown', cover: 'assets/Queenstown.png', label: 'Queenstown' },
   { id: 'tekapo', cover: 'assets/Tekapo.mp4', label: 'Lake Tekapo' },
