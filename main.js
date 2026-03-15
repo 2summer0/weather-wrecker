@@ -187,7 +187,7 @@ function generateLayout(id, total, placedRects) {
 
 // Helper to determine if a card should be rotated initially
 function shouldRotate(id) {
-  return id === 'dear' || id === 'nose';
+  return id === 'Dear' || id === 'nose';
 }
 
 
