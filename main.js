@@ -25,7 +25,7 @@ const EVENTS = [
   { id: 'tekapo', cover: 'assets/Tekapo.mp4', label: 'Lake Tekapo' },
   { id: 'yeosu and suncheon', cover: 'assets/Yeosu and Suncheon.jpg', label: 'Yeosu & Suncheon' },
   { id: 'nose', cover: 'assets/nose.png', label: 'Nose' },
-  { id: 'dear', cover: 'assets/dear.png', label: 'dear' },
+  { id: 'Dear', cover: 'assets/Dear.png', label: 'Dear' },
   { id: 'sun', cover: 'assets/sun.png', label: 'Out of office' },
 ];
 
